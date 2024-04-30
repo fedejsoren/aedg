@@ -23,9 +23,9 @@ normativo que se adapta dinámicamente a las necesidades y evolución de nuestro
 bajo los principios de transparencia, equidad y consenso.
 
 # Campeonato de España
-El Campeonato de España, evento cumbre en nuestro calendario deportivo, tiene el honor de
+El Campeonato de España, tiene el honor de
 coronar anualmente a los campeones nacionales de disc golf. Esta prestigiosa competición está
-diseñada con el propósito fundamental de identificar y reconocer a los jugadores que demuestren un
+diseñada con el propósito fundamental de identificar y reconocer a los jugadores y jugadoras que demuestren un
 nivel excepcionalmente alto en todas las facetas del juego, abarcando tanto las habilidades físicas
 como las capacidades estratégicas y psicológicas. En concordancia con este objetivo, la Asociación
 Española de Disc Golf (AEDG) insta enfáticamente a los clubes organizadores a la creación y
@@ -42,12 +42,10 @@ altos estándares de calidad y seguridad que podamos ofrecer. Por ello, se estab
 indispensable que todas las salidas estén en las mejores condiciones que se puedan conseguir y sean
 de alta calidad. Esto implica la utilización de materiales duraderos y adecuados, como césped
 artificial correctamente instalado, hormigón, asfalto u otros compuestos similares que proporcionen
-un nivel de agarre óptimo para los jugadores. Este requisito es esencial para facilitar un primer
+un nivel de agarre óptimo para los jugadores y jugadoras. Este requisito es esencial para facilitar un primer
 lanzamiento eficiente y seguro en cada hoyo. Queda expresamente prohibido el uso de salidas
 naturales, como superficies de césped o tierra, por no ofrecer las condiciones necesarias para un
-juego de nivel competitivo.
-Además, es imprescindible que los campos cumplan con las normativas establecidas por la
-Professional Disc Golf Association (PDGA). Específicamente, los campos deben deben orientarse en elnivel de dificultad 'blue', de acuerdo con los lineamientos y criterios detallados en la página oficial de
+juego de nivel competitivo. Específicamente, los campos deben deben orientarse en elnivel de dificultad 'blue', de acuerdo con los lineamientos y criterios detallados en la página oficial de
 la PDGA. Puede consultar la información relevante y las directrices específicas para campos de nivel
 'blue' o superior en el siguiente enlace: https://www.pdga.com/documents/par-guidelines . En el
 caso de que este enlace se vuelva obsoleto o inaccesible en el futuro, se deberá hacer referencia a la
@@ -197,8 +195,7 @@ fase pasarán automáticamente a la tercera fase.
 
 ### Tercera fase
 La tercera y última fase del proceso de registro para el Campeonato de España de Disc Golf se centra
-en la asignación de plazas restantes, basándose en el rating de los jugadores que tengan en el
-momento que se empiece con la primera fase. Esta fase es crucial para garantizar la presencia de losjugadores más competitivos en el torneo. Durante esta etapa, se otorgarán las plazas que no hayan
+en la asignación de plazas restantes, sin basarse en nada. Esta fase es crucial para garantizar la presencia de losjugadores más competitivos en el torneo. Durante esta etapa, se otorgarán las plazas que no hayan
 sido cubiertas en la segunda fase, siguiendo un criterio de adjudicación que prioriza el rating de los
 jugadores, independientemente de la categoría en la que deseen participar.
 Este enfoque tiene como objetivo principal asegurar que el campeonato cuente con los jugadores de
