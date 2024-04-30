@@ -510,6 +510,11 @@ Campeonato de España. La distribución de puntos por posición en el campeonato
 * Undécimo puesto: 1 punto
 * Duodécimo puesto o mayor: 0 puntos
 
+Por ejemplo, un jugador con un rating de 982 en enero de 2025 que haya obtenido el tercer puesto en el Campeonato de España tendría una puntuación total de 992 puntos (982 de rating + 10 puntos del tercer puesto).
+
+En situaciones donde un jugador participe en el Campeonato de España en una categoría distinta a aquella en la que podría representar a España a nivel internacional, la asignación de puntos se realizará basándose en la categoría en la que efectivamente compitió. Sin embargo, esto aplicará únicamente si la categoría en la que compitió es más exigente o restrictiva que su categoría internacional. Por ejemplo, si un jugador compite en la categoría MPO pero su categoría internacional sería MP50, se le asignarán los puntos correspondientes a su desempeño en MPO. Por otro lado, si un jugador compite en una categoría internacionalmente menos restrictiva, como MP50, pero podría representar a España en MPO, entonces los puntos obtenidos en MP50 no se sumarán a su clasificación para MPO.
+
+Las listas de clasificación se ordenarán y publicarán tanto a los clubes como en la página web de la AEDG durante el mes de enero de cada año. Estas listas serán la referencia principal para la selección de representantes en competiciones internacionales durante el año correspondiente.
 
 
 
